@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Widgets",
+  "description": "Premium Android home-screen widget studio and launcher inspired by Google Pixel and Material You design language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
